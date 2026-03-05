@@ -39,6 +39,15 @@ border-radius:10px;
 
 }
 
+.buttons{
+
+display:flex;
+gap:10px;
+justify-content:center;
+margin-bottom:10px;
+
+}
+
 button{
 
 padding:12px 20px;
