@@ -7,6 +7,8 @@ const memes = [
 "https://th.bing.com/th/id/OIP.NYwzWg9BwpQofpXR1YNZgAHaHK?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
 "https://i.pinimg.com/736x/4a/1b/f5/4a1bf5dc72afcb8fd4b9d85ee2c49888.jpg",
 "https://i.pinimg.com/originals/9f/e0/e4/9fe0e4bd75c20e6e09a88703aa21cb92.jpg",
+"https://tse4.mm.bing.net/th/id/OIP.URlIqw2brCvp2ajRVpfC5gHaHE?rs=1&pid=ImgDetMain&o=7&rm=3",
+"https://chameleonmemes.com/wp-content/uploads/2023/04/I-Multitask.jpg"
   
 ];
 
