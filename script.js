@@ -8,11 +8,25 @@ const memes = [
 
 ];
 
+let likes = localStorage.getItem("likes") || 0;
+
+document.getElementById("likeCount").textContent = likes;
+
 function showRandomMeme(){
 
 const randomIndex = Math.floor(Math.random() * memes.length);
 
 document.getElementById("meme").src = memes[randomIndex];
+
+}
+
+function likeMeme(){
+
+likes++;
+
+localStorage.setItem("likes", likes);
+
+document.getElementById("likeCount").textContent = likes;
 
 }
 
